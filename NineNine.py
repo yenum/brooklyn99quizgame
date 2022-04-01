@@ -100,6 +100,9 @@ elif final_score >= 50:
 else: 
     print("Do you even watch the show at all?")
 
+print("The verdit:")
+
+
 
 
 
