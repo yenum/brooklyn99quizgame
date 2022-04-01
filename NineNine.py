@@ -89,6 +89,9 @@ else:
 
 final_score = count/10 * 100
 
+print("The verdict:")
+
+
 if final_score >= 80:
     print("You are a Nine Nine Rockstar")
 elif final_score >= 70:
@@ -100,7 +103,6 @@ elif final_score >= 50:
 else: 
     print("Do you even watch the show at all?")
 
-print("The verdit:")
 
 
 
